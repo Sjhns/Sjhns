@@ -1,10 +1,9 @@
-# Olá, eu sou Johnson! 👋
+# Olá, eu sou o Johnson 🚀
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simeone-johnson-8a7737248/)
-
-
-## Sobre mim 🚀
-Eu sou um desenvolvedor full stack e apaixonado por astronomia e café. 
+* Desenvolvedor full stack 
+* Apaixonado por astronomia e café
+* Um leitor ávido 
+* Fã de jogos estilo MOBA
 
 ## Tecnologias ⚙️
 
