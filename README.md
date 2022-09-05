@@ -1,9 +1,9 @@
 # Olá, eu sou o Johnson 🚀
 
-* Desenvolvedor full stack 
-* Apaixonado por astronomia e café
-* Um leitor ávido 
-* Fã de jogos estilo MOBA
+* **Desenvolvedor full stack**
+* **Apaixonado por astronomia e café**
+* **Um leitor ávido**
+* **Fã de jogos estilo MOBA**
 
 <br>
 
