@@ -1,4 +1,10 @@
-# Olá, eu sou o Johnson 🚀
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0b2736&size=40&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Simeone+Johnson;Eu+tenho+20+anos;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
+
+<br>
+
+<br>
+
+## Um pouco sobre mim
 
 * **Desenvolvedor full stack**
 * **Apaixonado por astronomia e café**
