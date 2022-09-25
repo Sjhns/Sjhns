@@ -35,7 +35,7 @@ Controle de versionamento: <img align="center" alt="GIT" src="https://img.shield
 
 <br>
 
-Outros:  <img align="center" alt="DOCKER" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" >
+Outros:  <img align="center" alt="DOCKER" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" > <img align="center" alt="DOCKER" src="https://img.shields.io/badge/docker%20compose-316192.svg?style=for-the-badge&logo=docker&logoColor=white" >
 
  ### **Já o que eu não sei, me dê alguns dias para aprender.** 🙂
 
