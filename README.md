@@ -7,7 +7,6 @@
 ## Um pouco sobre mim
 
 * **Desenvolvedor full stack**
-* **Apaixonado por astronomia e café**
 * **Um leitor ávido**
 * **Fã de jogos estilo MOBA e FPS**
 
