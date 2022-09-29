@@ -26,7 +26,8 @@ Backend: <img align="center" alt="EXPRESS" src="https://img.shields.io/badge/exp
 
 <br>
 
-Banco de dados: <img align="center" alt="postgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" > <img align="center" alt="FIREBASE" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" > 
+Banco de dados: <img align="center" alt="postgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" > <img align="center" alt="FIREBASE" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" > <img align="center" alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" >
+
 
 <br>
 
@@ -34,7 +35,14 @@ Controle de versionamento: <img align="center" alt="GIT" src="https://img.shield
 
 <br>
 
-Outros:  <img align="center" alt="DOCKER" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" > <img align="center" alt="DOCKER" src="https://img.shields.io/badge/docker%20compose-316192.svg?style=for-the-badge&logo=docker&logoColor=white" >
+Sistemas Operacionais:  <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" > <img align="center" alt="linux" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" >
+
+
+
+
+<br>
+
+Outros:  <img align="center" alt="DOCKER" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" > <img align="center" alt="DOCKER" src="https://img.shields.io/badge/docker--compose-316192.svg?style=for-the-badge&logo=docker&logoColor=white" >
 
  ### **Já o que eu não sei, me dê alguns dias para aprender.** 🙂
 
