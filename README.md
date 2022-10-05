@@ -47,7 +47,7 @@ Outros:  <img align="center" alt="DOCKER" src="https://img.shields.io/badge/dock
  ### **Já o que eu não sei, me dê alguns dias para aprender.** 🙂
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Johnson49&layout=compact&langs_count=8&hide=handlebars&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Johnson49&layout=compact&langs_count=8&hide=handlebars,html&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Redes sociais 📱
 
