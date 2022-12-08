@@ -32,7 +32,7 @@
 
 <br>
 
-**Outros**:  <img align="center" alt="DOCKER" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" > <img align="center" alt="DOCKER" src="https://img.shields.io/badge/docker--compose-316192.svg?style=for-the-badge&logo=docker&logoColor=white" >
+**Outros**:  <img align="center" alt="DOCKER" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" > <img align="center" alt="DOCKER" src="https://img.shields.io/badge/docker--compose-316192.svg?style=for-the-badge&logo=docker&logoColor=white" > <img align="center" alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" >
 
 <br>
 
