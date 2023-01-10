@@ -17,7 +17,7 @@ Desenvolvedor full stack com experiência em construir e manter aplicações web
 
 #### 🧶 Ferramentas com as quais já trabalhei profissionalmente:
 
-- Languages: **TypeScript** • **JavaScript**
+- Linguagens: **TypeScript** • **JavaScript**
 - Front-end: ReactJS • Next.js • Styled-components • TailwindCSS • HTML • CSS • SCSS
 
 #### 🛠 Ferramentas nas quais já realizei algum projeto
