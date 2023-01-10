@@ -1,7 +1,10 @@
 # Olá, Eu sou o Johnson
 
 <p>
-Desenvolvedor full-stack com experiencia em construir e manter aplicações web escaláveis e robustas.   <span align="center"> 
+
+<span width="90%">
+Desenvolvedor full-stack com experiencia em construir e manter aplicações web escaláveis e robustas.
+</span> <span align="center"> 
    <a href="https://www.buymeacoffee.com/simeonejohnson">
    <img align="right" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
    </a>
@@ -12,7 +15,7 @@ Desenvolvedor full-stack com experiencia em construir e manter aplicações web 
 <br>
 <br>
 
-<img align=right height="400px" width="35%" src="./img/background.jpg"/>
+<img align=right src="./img/coffe.png"/>
 
 #### 🧶 Ferramentas com as quais já trabalhei profissionalmente:
 
