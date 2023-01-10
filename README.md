@@ -1,21 +1,51 @@
-# 💫 Sobre mim 
+# Olá, Eu sou o Johnson
 
-Eu sou um desenvolvedor full stack, mas possuo maior experiência com o backend. Já realizei alguns trabalhos, o que me proporcionou experiência no desenvolvimento de software de qualidade, fácil manutenção e altamente escaláveis.
+<p>
+Desenvolvedor full-stack com experiencia em construir e manter aplicações web escaláveis e robustas.   <span align="center"> 
+   <a href="https://www.buymeacoffee.com/simeonejohnson">
+   <img align="right" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+   </a>
+   </span>
+</p>
 
+<br>
+<br>
+<br>
 
-## 🌐 Mídias sociais 
+<img align=right height="400px" width="35%" src="./img/background.jpg"/>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simeone-johnson/)
+#### 🧶 Ferramentas com as quais já trabalhei profissionalmente:
 
-# 💻 Tech Stack
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Express.JS](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![PNPM](https://img.shields.io/badge/PNPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+- Languages: **TypeScript** • **JavaScript**
+- Front-end: ReactJS • Next.js • Styled-components • TailwindCSS • HTML • CSS • SCSS
 
-# 📊 GitHub Stats
+#### 🛠 Ferramentas nas quais já realizei algum projeto
+
+- Languages: Python • JavaScript • Go • TypeScript • Java
+- Back-end: Express.js • Spring Boot • FastAPI 
+- Front-end: React • Next.js • HTML • CSS • SCSS •
+- Game Development: Unreal Engine
+- Cloud: Firebase • AWS
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<h3 align="center">🌟 Personal GitHub Stats 🌟</h3>
+
+<br>
+
+<p align="center">
    
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Johnson49&theme=omni&langs_count=8&hide=html&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+ <img width="50%"  height="200px" src="https://github-readme-stats.vercel.app/api?username=Johnson49&count_private=true&include_all_commits=true&show_icons=true&theme=radical" />
+   
+<img align="right" height="200px" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johnson49&theme=omni&langs_count=8&hide=html&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
 
-  ## 💰 Você pode me ajudar pelo Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/simeonejohnson) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br>
