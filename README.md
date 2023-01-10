@@ -2,7 +2,7 @@
 
 <p>
 
-Desenvolvedor full-stack com experiencia em construir e manter aplicações web escaláveis e robustas. <span align="center"> 
+Desenvolvedor full stack com experiência em construir e manter aplicações web escaláveis e robustas. <span align="center"> 
    <a href="https://www.buymeacoffee.com/simeonejohnson">
    <img align="right" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
    </a>
