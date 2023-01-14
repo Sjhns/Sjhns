@@ -45,9 +45,9 @@ Desenvolvedor full stack com experiência em construir e manter aplicações web
 
 <p align="center">
    
- <img width="50%"  height="200px" src="https://github-readme-stats.vercel.app/api?username=Sjhns&count_private=true&include_all_commits=true&show_icons=true&theme=radical" />
+ <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=Sjhns&count_private=true&include_all_commits=true&show_icons=true&theme=radical" />
    
-<img align="right" height="200px" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sjhns&theme=omni&langs_count=8&hide=html&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+<img align="right" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sjhns&theme=omni&langs_count=8&hide=html&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
 <br>
