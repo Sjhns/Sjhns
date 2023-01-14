@@ -28,6 +28,7 @@ Desenvolvedor full stack com experiência em construir e manter aplicações web
 - Front-end: React • Next.js • HTML • CSS • SCSS •
 - Game Development: Unreal Engine
 - Cloud: Firebase • AWS
+- Outros: Docker
 
 <br>
 
