@@ -7,7 +7,7 @@
  </span>
    
 <p>
-Desenvolvedor full stack com experiência em construir e manter aplicações web escaláveis e robustas. 
+Experiência em desenvolvimento web, tanto no backend quanto no frontend.
 </p>
 
 <br>
@@ -27,8 +27,12 @@ Desenvolvedor full stack com experiência em construir e manter aplicações web
 - Back-end: Express.js • Spring Boot • FastAPI 
 - Front-end: React • Next.js • HTML • CSS • SCSS •
 - Game Development: Unreal Engine
-- Cloud: Firebase • AWS
+- Cloud: Firebase • Amazon S3
 - Outros: Docker
+
+#### 📕 Aprendendo atualmente
+
+- AWS
 
 <br>
 
