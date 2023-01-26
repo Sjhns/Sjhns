@@ -13,7 +13,6 @@ Experiência em desenvolvimento web, tanto no backend quanto no frontend.
 <br>
 <br>
 
-
 <img align=right src="./img/coffe.png"/>
 
 #### 🧶 Ferramentas com as quais já trabalhei profissionalmente:
