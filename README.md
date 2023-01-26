@@ -38,6 +38,7 @@ Experiência em desenvolvimento web, tanto no backend quanto no frontend.
 
 <br>
 
+
 <h3 align="center">🌟 Personal GitHub Stats 🌟</h3>
 
 <br>
