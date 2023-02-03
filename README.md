@@ -7,7 +7,7 @@
  </span>
    
 <p>
-Experiência em desenvolvimento web, tanto no backend quanto no frontend.
+Habilidade em desenvolvimento full-stack de aplicações web.
 </p>
 
 <br>
