@@ -18,7 +18,7 @@ Habilidade em desenvolvimento full-stack de aplicações web.
 #### 🧶 Ferramentas com as quais já trabalhei profissionalmente:
 
 - Linguagens: **TypeScript** • **JavaScript**
-- - Back-end: Express.js • PrismaORM
+- Back-end: Express.js • PrismaORM
 - Front-end: ReactJS • Next.js • Styled-components • TailwindCSS • HTML • CSS • SCSS
 
 #### 🛠 Ferramentas nas quais já realizei algum projeto
