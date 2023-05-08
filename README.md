@@ -13,13 +13,3 @@
 </div>
 
 <br>
-
-<h3 align="center">🌟 Personal GitHub Stats 🌟</h3>
-
-<br>
-
-<p align="center">
-   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sjhns&theme=omni&langs_count=8&hide=html&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /> 
-
-</p>
