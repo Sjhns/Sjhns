@@ -13,3 +13,11 @@
 </div>
 
 <br>
+<br>
+
+<p align="center"> 
+  Total de visitas no meu perfil  <br> 
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/ivanasouzax/count.svg" />
+ </p>
+</p>
